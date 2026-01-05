@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "COSMOS_ENDPOINT": "https://creatorhub-cosmos.documents.azure.com:443/",
+    "COSMOS_KEY": "xBU0y48r73mXhBaasJlXWEnQseyXiZruCvtzf7LkwOlTGHZRRzDGzTDsY5uz7v0s3qZSWtD3R6qZACDbzQdHFw==",
+    "COSMOS_DATABASE": "creatorhubdb",
+    "COSMOS_CONTAINER": "assets",
+    "BLOB_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=creatorhubmedia2025;AccountKey=i4sVVq3AzxLPaKtwgEiTtFehnJb5vldb768MVPqatUTiApSBh4dmb90LrPdMTAzgNAVXnXfmB1KS+AStBqP8Iw==;EndpointSuffix=core.windows.net",
+    "BLOB_CONTAINER_NAME": "uploads"
+  }
+}
